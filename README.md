@@ -68,7 +68,7 @@ This API allows users to perform CRUD operations on Student entities with having
 
 ## Installation & Run
 
-* Before running the API server, you should update the database config inside the [application.properties]() file. 
+* Before running the API server, you should update the database config inside the [application.properties](https://github.com/gitsid1611/AtDev-Assignment/blob/main/student/student/src/main/resources/application.properties) file. 
 * Update the port number, username and password as per your local database config.
 
 ```
